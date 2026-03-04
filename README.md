@@ -9,13 +9,13 @@ SQL (Data Extraction & Querying)
 
 📷 Dashboard Preview
 ### Summary Page
-![Summary Page](summary_page.png)
+! [Summary Page](summary_page.png)
 
 ### Overview Page
-![Overview Page](overview_page.png)
+! [Overview Page](overview_page.png)
 
 ### Detailed Page
-![Detailed Page](details_page.png)
+! [Detailed Page](details_page.png)
 
 
 📈 Key KPIs
