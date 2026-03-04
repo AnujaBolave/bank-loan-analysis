@@ -8,6 +8,15 @@ Power BI (Dashboard Development & Data Modeling & Data Cleaning)
 SQL (Data Extraction & Querying)
 
 📷 Dashboard Preview
+### Summary Page
+![Summary Page](summary_page.png)
+
+### Overview Page
+![Overview Page](overview_page.png)
+
+### Detailed Page
+![Detailed Page](details_page.png)
+
 
 📈 Key KPIs
 1. Total Loan Applications: 38.6K
