@@ -72,7 +72,7 @@ This project analyzes bank loan data to evaluate loan applications, funding dist
 ![Overview Page](image/overview_page.png)
 
 ### Detailed Page
-![Detailed Page](image/details_page.png)
+![Detailed Page](image/detail_page.png)
 
 ---
 
